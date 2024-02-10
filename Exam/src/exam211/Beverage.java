@@ -14,5 +14,9 @@ public class Beverage {
 		
 
 	}
+	String Beverage()
+	{
+		return type;
+	}
 
 }
